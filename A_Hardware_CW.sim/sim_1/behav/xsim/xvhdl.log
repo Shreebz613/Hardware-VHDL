@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/chaim/A_Hardware_CW/A_Hardware_CW.srcs/sources_1/new/AluCW.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'AluCW'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/chaim/A_Hardware_CW/A_Hardware_CW.srcs/sources_1/new/Zero_Detect.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Zero_Detect'

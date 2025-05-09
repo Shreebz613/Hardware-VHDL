@@ -1,0 +1,18 @@
+# Vivado backup files
+.Xil/
+
+# Vivado project logs
+*.log
+*.jou
+
+# Vivado project implementation files
+*.dcp
+*.xml
+*.ngc
+*.ngd
+*.xco
+*.xdc
+
+# Vivado temporary files
+*.wdb
+*.hw

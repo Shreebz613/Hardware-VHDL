@@ -1,0 +1,12 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../A_Hardware_CW.srcs/sources_1/new/AluCW.vhd" \
+"../../../../A_Hardware_CW.srcs/sources_1/new/Arithmetic_Unit.vhd" \
+"../../../../A_Hardware_CW.srcs/sources_1/imports/new/Lab2Design.vhd" \
+"../../../../A_Hardware_CW.srcs/sources_1/new/Logic_Unit.vhd" \
+"../../../../A_Hardware_CW.srcs/sources_1/new/MUX.vhd" \
+"../../../../A_Hardware_CW.srcs/sources_1/new/Zero_Detect.vhd" \
+"../../../../A_Hardware_CW.srcs/sim_1/new/AluCW_tb.vhd" \
+
+# Do not sort compile order
+nosort

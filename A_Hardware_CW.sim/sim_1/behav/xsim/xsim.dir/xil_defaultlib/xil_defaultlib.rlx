@@ -1,0 +1,11 @@
+0.7
+2020.2
+Nov  8 2024
+22:36:57
+C:/Users/chaim/A_Hardware_CW/A_Hardware_CW.srcs/sim_1/new/AluCW_tb.vhd,1740571993,vhdl,,,,alucw_tb,,,,,,,,
+C:/Users/chaim/A_Hardware_CW/A_Hardware_CW.srcs/sources_1/imports/new/Lab2Design.vhd,1740401777,vhdl,,,,full_adder,,,,,,,,
+C:/Users/chaim/A_Hardware_CW/A_Hardware_CW.srcs/sources_1/new/AluCW.vhd,1742571039,vhdl,,,,alucw,,,,,,,,
+C:/Users/chaim/A_Hardware_CW/A_Hardware_CW.srcs/sources_1/new/Arithmetic_Unit.vhd,1742569553,vhdl,,,,arithmetic_unit,,,,,,,,
+C:/Users/chaim/A_Hardware_CW/A_Hardware_CW.srcs/sources_1/new/Logic_Unit.vhd,1742570226,vhdl,,,,logic_unit,,,,,,,,
+C:/Users/chaim/A_Hardware_CW/A_Hardware_CW.srcs/sources_1/new/MUX.vhd,1742570601,vhdl,,,,mux,,,,,,,,
+C:/Users/chaim/A_Hardware_CW/A_Hardware_CW.srcs/sources_1/new/Zero_Detect.vhd,1742571006,vhdl,,,,zero_detect,,,,,,,,
